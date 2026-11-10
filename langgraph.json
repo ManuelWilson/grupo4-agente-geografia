@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "agente_profesor_geografia": "./src/agente_geografia/graph.py:graph"
+  },
+  "env": ".env"
+}
